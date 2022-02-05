@@ -46,21 +46,151 @@ A short progress report on the research paper is due one week after Ses #7, and 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 20% |
-| Referee reports (10% each) | 30% |
-| Final paper | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Referee reports (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and motivations | &nbsp; |
-| 2 | Basic mechanism design and auction theory | &nbsp; |
-| 3 | More mechanism design and auction theory | Referee report 1 due |
-| 4 | One-sided matching: house allocation and market problems | &nbsp; |
-| 5 | Two-sided matching: stability, many-to-one vs. one-to-one, and small cores in large markets | Referee report 2 due |
-| 6 | Stochastic matching mechanisms | &nbsp; |
-| 7 | Student assignment and school choice | Referee report 3 due, final paper proposal due 1 week after Ses #7, and final paper due 6 weeks after Ses #7
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and motivations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Basic mechanism design and auction theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+More mechanism design and auction theory
+{{< tdclose >}}
+{{< tdopen >}}
+Referee report 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+One-sided matching: house allocation and market problems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Two-sided matching: stability, many-to-one vs. one-to-one, and small cores in large markets
+{{< tdclose >}}
+{{< tdopen >}}
+Referee report 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic matching mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Student assignment and school choice
+{{< tdclose >}}
+{{< tdopen >}}
+Referee report 3 due, final paper proposal due 1 week after Ses #7, and final paper due 6 weeks after Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
