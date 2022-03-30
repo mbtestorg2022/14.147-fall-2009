@@ -60,7 +60,7 @@ Milgrom, Paul. "[Package Auctions and Package Exchanges](http://ideas.repec.org/
 
 Joskow, Paul, Richard Schmalensee, and Elizabeth Bailey. "[The Market for Sulfur Dioxide Emissions](http://ideas.repec.org/a/aea/aecrev/v88y1998i4p669-85.html)." _American Economic Review_ 88, no. 4 (September 1998): 669-685.
 
-Che, Yeon-Koo, and Ian Gale. "Market Versus Non-Market Assignment of Initial Ownership." Mimeograph, Columbia University, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mpra.ub.uni-muenchen.de/6095/1/nonmarket.pdf))
+Che, Yeon-Koo, and Ian Gale. "Market Versus Non-Market Assignment of Initial Ownership." Mimeograph, Columbia University, 2006. ([PDF](http://mpra.ub.uni-muenchen.de/6095/1/nonmarket.pdf))
 
 Klemperer, Paul. "[What Really Matters in Auction Design?](http://ideas.repec.org/a/aea/jecper/v16y2002i1p169-189.html)" _Journal of Economic Perspectives_ 16, no. 1 (Winter 2002): 169-189.
 
@@ -90,7 +90,7 @@ Moulin, Hervé. "[Priority Rules and Other Asymmetric Rationing Methods](http://
 
 Fowlie, Meredith, and Jeffrey Perloff. "[Distributing Pollution Rights in Cap-and-Trade Programs: Are Outcomes Independent of Allocation?](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00345)" Mimeograph, University of Michigan, 2009.
 
-Mansur, Erin T., and Matt White. "Market Organization and Efficiency in Electricity Markets." Mimeograph, University of Pennsylvania, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/8795/6f0ee20b13529213e4d637f9084f3e30ff06.pdf))
+Mansur, Erin T., and Matt White. "Market Organization and Efficiency in Electricity Markets." Mimeograph, University of Pennsylvania, 2007. ([PDF](https://pdfs.semanticscholar.org/8795/6f0ee20b13529213e4d637f9084f3e30ff06.pdf))
 
 Leslie, Phillip, and Alan Sorenson. "The Welfare Effects of Ticket Resale." Mimeograph, Stanford Graduate School of Business, Stanford University, October 2009. Also available as [National Bureau of Economic Research Working Paper No. 15476](http://www.nber.org/papers/w15476), November 2009.
 
@@ -204,13 +204,13 @@ Chen, Chia-Hui. "One-to-Many Negotiation Between a Seller and Asymmetric Buyers.
 
 Pai, Mallesh M., and Rakesh Vohra. "[Optimal Auctions with Financially Constrained Bidders](http://ideas.repec.org/p/nwu/cmsems/1471.html)." Mimeograph, Northwestern University, July 2009.
 
-Fox, Jeremy T., and Patrick Bajari. "Measuring the Efficiency of an FCC Spectrum Auction." Mimeograph, University of Chicago, October 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://www.nber.org/papers/w11671.pdf)) Also available as [National Bureau of Economic Research Working Paper No. 11671](http://www.nber.org/papers/w11671), October 2005.
+Fox, Jeremy T., and Patrick Bajari. "Measuring the Efficiency of an FCC Spectrum Auction." Mimeograph, University of Chicago, October 2009. ([PDF - 1.1MB](http://www.nber.org/papers/w11671.pdf)) Also available as [National Bureau of Economic Research Working Paper No. 11671](http://www.nber.org/papers/w11671), October 2005.
 
 Segal, Ilya, and Michael D. Whinston. "[An Expected-Efficient Status Quo Allows Efficient Bargaining](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1325524)." Mimeograph, Stanford University, January 2009.
 
 Hafalir, Isa, and Vijay Krishna. "[Asymmetric Auctions with Resale](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=878787)." Mimeograph, Pennsylvania State University, January 2006.
 
-Cheng, Harrison, and Guofu Tan. "Auctions with Resale and Bargaining Power." Mimeograph, University of Southern California, January 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cirje.e.u-tokyo.ac.jp/research/workshops/micro/micropaper08/micro1216_2.pdf))
+Cheng, Harrison, and Guofu Tan. "Auctions with Resale and Bargaining Power." Mimeograph, University of Southern California, January 2009. ([PDF](http://www.cirje.e.u-tokyo.ac.jp/research/workshops/micro/micropaper08/micro1216_2.pdf))
 
 
 {{< tdclose >}}
@@ -302,7 +302,7 @@ Stochastic matching mechanisms
 
 Abdulkadiroğlu, Atila, and Tayfun Sönmez. "[Random Serial Dictatorship and the Core from Random Endowments in House Allocation Problems](http://ideas.repec.org/a/ecm/emetrp/v66y1998i3p689-702.html)." _Econometrica_ 66, no. 3 (May 1998): 689-702.
 
-Pathak, Parag. "Lotteries in Student Assignment: The Equivalence of Queueing and a Market-Based Approach." Mimeograph, Department of Economics, Massachusetts Institute of Technology, December 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://econ-www.mit.edu/files/3659))
+Pathak, Parag. "Lotteries in Student Assignment: The Equivalence of Queueing and a Market-Based Approach." Mimeograph, Department of Economics, Massachusetts Institute of Technology, December 2008. ( [PDF](http://econ-www.mit.edu/files/3659))
 
 Bogomolnaia, Anna, and Hervé Moulin. "[A New Solution to the Random Assignment Problem](http://ideas.repec.org/a/eee/jetheo/v100y2001i2p295-328.html)." _Journal of Economic Theory_ 100, no. 2 (October 2001): 295-328.
 
@@ -427,7 +427,7 @@ Bernheim, B. Douglas, and Michael Whinston. "[Menu Auctions, Resource Allocation
 
 Ausubel, Lawrence. "[An Efficient Ascending-Bid Auction for Multiple Objects](http://ideas.repec.org/a/aea/aecrev/v94y2004i5p1452-1475.html)." _American Economic Review_ 94, no. 5 (December 2004): 1452-1475.
 
-Ausubel, Lawrence, and Peter Cramton. "Demand Reduction and Inefficiency in Multi-Unit Auctions." Working paper, Department of Economics, University of Maryland, July 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cramton.umd.edu/papers1995-1999/98wp-demand-reduction.pdf))
+Ausubel, Lawrence, and Peter Cramton. "Demand Reduction and Inefficiency in Multi-Unit Auctions." Working paper, Department of Economics, University of Maryland, July 2002. ([PDF](http://www.cramton.umd.edu/papers1995-1999/98wp-demand-reduction.pdf))
 
 Ausubel, Lawrence, and Paul Milgrom. "[Ascending Auctions with Package Bidding](http://ideas.repec.org/p/wop/stanec/02004.html)." Working Paper No. 02004, Department of Economics, Stanford University, March 2002.
 
@@ -445,13 +445,13 @@ DeMarzo, Peter, Ilan Kremer, and Andrzej Skrzypacz. "[Bidding with Securities: A
 
 Krishna, Vijay. "[Asymmetric English Auctions](http://ideas.repec.org/a/eee/jetheo/v112y2003i2p261-288.html)." _Journal of Economic Theory_ 112, no. 2 (October 2003): 261-288.
 
-Asker, John. "A Study of the Internal Organisation of a Bidding Cartel." Working paper, Stern School of Business, New York University, April 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pages.stern.nyu.edu/~jasker/stamps070628.pdf))
+Asker, John. "A Study of the Internal Organisation of a Bidding Cartel." Working paper, Stern School of Business, New York University, April 2009. ([PDF](http://pages.stern.nyu.edu/~jasker/stamps070628.pdf))
 
 Marshall, Robert, and Leslie Marx. "[The Vulnerability of Auctions to Bidder Collusion](http://www.mitpressjournals.org/doi/abs/10.1162/qjec.2009.124.2.883)." _Quarterly Journal of Economics_ 124, no. 2 (May 2009): 883-910.
 
-Kastl, Jakub. "Discrete Bids and Empirical Inference in Divisible Good Auctions." Mimeograph, Stanford University, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://academic.oup.com/restud/article/78/3/974/1565689))
+Kastl, Jakub. "Discrete Bids and Empirical Inference in Divisible Good Auctions." Mimeograph, Stanford University, 2009. ([PDF](https://academic.oup.com/restud/article/78/3/974/1565689))
 
-Hortaçsu, Ali, and Jakub Kastl. "Do Bidders in Canadian Treasury Bill Auctions Have Private Values?" Mimeograph, Stanford University, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.semanticscholar.org/paper/Do-Bidders-in-Canadian-Treasury-Bill-Auctions-Have-Horta%C3%A7su-Kastl/4e14fcbd82a0d26b653b8f5f361fa7adb2c3fe95))
+Hortaçsu, Ali, and Jakub Kastl. "Do Bidders in Canadian Treasury Bill Auctions Have Private Values?" Mimeograph, Stanford University, 2008. ([PDF](https://www.semanticscholar.org/paper/Do-Bidders-in-Canadian-Treasury-Bill-Auctions-Have-Horta%C3%A7su-Kastl/4e14fcbd82a0d26b653b8f5f361fa7adb2c3fe95))
 
 
 {{< tdclose >}}
@@ -534,11 +534,11 @@ Simplicity, robustness, and limited rationality
 
 Roth, Alvin E., and Uriel G. Rothblum. "[Truncation Strategies in Matching Markets—In Search of Advice for Participants](http://ideas.repec.org/a/ecm/emetrp/v67y1999i1p21-44.html)." _Econometrica_ 67, no. 1 (January 1999): 21-44.
 
-Pathak, Parag, and Tayfun Sönmez. "Comparing Mechanisms by their Vulnerability to Manipulation." Mimeograph, Department of Economics, Massachusetts Institute of Technology, January 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.2497&rep=rep1&type=pdf))
+Pathak, Parag, and Tayfun Sönmez. "Comparing Mechanisms by their Vulnerability to Manipulation." Mimeograph, Department of Economics, Massachusetts Institute of Technology, January 2009. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.2497&rep=rep1&type=pdf))
 
 Dasgupta, Partha, and Eric Maskin. "[On the Robustness of Majority Rule](http://www.mitpressjournals.org/doi/abs/10.1162/JEEA.2008.6.5.949)." _Journal of the European Economic Association_ 6, no. 5 (September 2008): 949-973.
 
-Milgrom, Paul. "Simplified Mechanisms with an Application to Sponsored-Search Auctions." _Games and Economic Behavior_ (forthcoming). Also available as ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stanford Institute for Economic Policy Research (SIEPR) Discussion Paper 08-013 (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.529.604&rep=rep1&type=pdf), December 2008.
+Milgrom, Paul. "Simplified Mechanisms with an Application to Sponsored-Search Auctions." _Games and Economic Behavior_ (forthcoming). Also available as [Stanford Institute for Economic Policy Research (SIEPR) Discussion Paper 08-013 (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.529.604&rep=rep1&type=pdf), December 2008.
 
 ———. "[Assignment Messages and Exchanges](http://ideas.repec.org/a/aea/aejmic/v1y2009i2p95-113.html)." _American Economic Journal: Microeconomics_ 1, no. 2 (August 2009): 95-113.
 
@@ -560,7 +560,7 @@ Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. "[Efficient Kidney Exchange:
 
 ### Readings for referee reports
 
-Budish, Eric. "The Combinatorial Assignment Problem: Approximate Competitive Equilibrium from Equal Incomes." Mimeograph, Booth School of Business, University of Chicago, October 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://faculty.chicagobooth.edu/eric.budish/research/budish-approxceei-jpe-2011.pdf))
+Budish, Eric. "The Combinatorial Assignment Problem: Approximate Competitive Equilibrium from Equal Incomes." Mimeograph, Booth School of Business, University of Chicago, October 2009. ([PDF](http://faculty.chicagobooth.edu/eric.budish/research/budish-approxceei-jpe-2011.pdf))
 
 Chung, Kim-Sau, and Jeffrey C. Ely. "[Foundations of Dominant Strategy Mechanisms](http://ideas.repec.org/p/nwu/cmsems/1372.html)." _Review of Economic Studies_ 74, no. 2 (April 2007): 447-476.
 
@@ -568,7 +568,7 @@ Roth, Alvin E., and Axel Ockenfels. "Last-Minute Bidding and the Rules for Endin
 
 Ely, Jeffrey C., and Tanjim Hossain. "[Sniping and Squatting in Auction Markets](http://ideas.repec.org/a/aea/aejmic/v1y2009i2p68-94.html)." _American Economic Journal: Microeconomics_ 1, no. 2 (August 2009): 68-94.
 
-Chapman, James T. E., David McAdams, and Harry Paarsch. "Bounding Best-Response Violations in Discriminatory Auctions with Private Values." Mimeograph, Duke University, July 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://faculty.fuqua.duke.edu/~dm121/papers/boundingBR.pdf))
+Chapman, James T. E., David McAdams, and Harry Paarsch. "Bounding Best-Response Violations in Discriminatory Auctions with Private Values." Mimeograph, Duke University, July 2006. ([PDF](http://faculty.fuqua.duke.edu/~dm121/papers/boundingBR.pdf))
 
 
 {{< tdclose >}}
